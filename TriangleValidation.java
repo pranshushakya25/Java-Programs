@@ -4,6 +4,7 @@ public class TriangleValidation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // a,b,c are angles.
+        System.out.println("Enter all sides of triangles");
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
